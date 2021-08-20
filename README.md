@@ -1,5 +1,5 @@
 # Notes_node_project
-This is a Command Line application which takes input in the form of note (Title,Content) from terminal and these notes are stored in the form of JSON array 
+This is a node.js based Command Line application which takes input in the form of note (Title,Content) from terminal and these notes are stored in the form of JSON array 
 using FileSystem module.
 User can perfom CRUD operations on available notes. 
 
